@@ -23,7 +23,7 @@ Give print statement.
 ## PROGRAM:
 ```
 #Developed by:m.d.harini
-#Registration no:220031980
+#Registration no:22001980
 
 import numpy as np
 n=int(input())
