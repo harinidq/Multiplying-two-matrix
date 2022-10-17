@@ -1,7 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
-To multiply two arrays
+To write a python program for multiplying two matrix.
 
 ## ALGORITHM:
 
